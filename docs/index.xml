@@ -13,7 +13,8 @@
       <link>https://MayurHulke.github.io/mayurhulke-blog/docs/test/</link>
       <pubDate>Sat, 09 Nov 2024 07:21:11 +0000</pubDate>
       <guid>https://MayurHulke.github.io/mayurhulke-blog/docs/test/</guid>
-      <description>&lt;h2 id=&#34;this-is-a-test-page&#34;&gt;This is a Test Page&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;this-is-a-test-page&#34;&gt;This is a Test Page&lt;/h2&gt;
+&lt;p&gt;This is the test page for the blog.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
